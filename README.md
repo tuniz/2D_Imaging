@@ -1,4 +1,4 @@
-# 2D_Imaging
+# Imaging_2D
 This code reproduces Fig. 3a and Fig. 4a of 
 
 "Two-dimensional imaging in hyperbolic media–the role of field components and ordinary waves"
