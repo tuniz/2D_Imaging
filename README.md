@@ -6,7 +6,7 @@ Alessandro Tuniz & Boris T. Kuhlmey
 Scientific Reports volume 5, Article number: 17690 (2015) 
 https://doi.org/10.1038/srep17690
 
-For research purpose only
+For research purposes only
 
 Please cite the above paper if using any portion of this code for your research
 
